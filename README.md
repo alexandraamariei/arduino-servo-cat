@@ -15,7 +15,7 @@ This is an Arduino project simulating a robotic cat. The cat's legs and head are
 - cardboard frame
 
 # How It Works
-The potentiometer reads values from analog input A0. That value is used to control the delay (movement speed). The servos move the head and legs to simulate a walking or turning cat.
+This Arduino-powered robotic cat uses five servo motors to move its head and legs in a timed, oscillating pattern. The movement alternates between left and right with delays in between, simulating a playful or walking motion. No sensors or user input are involved — the motion is fully automated based on programmed timing.
 
 # Code
 See [`servo_cat.ino`](servo_cat.ino) for full Arduino source code.
