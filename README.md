@@ -21,6 +21,6 @@ The potentiometer reads values from analog input A0. That value is used to contr
 See [`servo_cat.ino`](servo_cat.ino) for full Arduino source code.
 
 # Demo 
-![Robotic Cat Demo](videopisica-ezgif.com-video-to-gif-converter.gif)
+[Robotic Cat Demo](videopisica-ezgif.com-video-to-gif-converter.gif)
 
 
